@@ -1,7 +1,7 @@
 # bloodchain-dapp
-```
+
 Decentralized blood bank management system using Ethereum smart contracts and React dApp.
-```
+
 ## 🩸 BloodChain – Blockchain-based Blood Bank System
 
 ### 🚀 Project Overview
