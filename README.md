@@ -41,4 +41,4 @@ npm start
 
 ### 🙋‍♂️ Team / Developer
 
-**Kantha Sishanth S**
+**~ Kantha Sishanth S**
